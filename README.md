@@ -12,5 +12,5 @@ if(dutyCycle>90) dutyCycle=10; - če je spremenljivka večja od 90, ji nastavi v
 
 
 
- # Komentar na delovanje:
+Komentar na delovanje:
 Vaja nama deluje.Bilo je le nekaj težav, kar se tiče same kvalitete signala na osciloskopu zaradi slabega spoja, ki sva jih hitro odpravilia in dobila dokaj čist signal. 
